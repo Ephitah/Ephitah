@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My Name is Daniel Olaleye</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-<P align="center"> <img alt="laptop img" src="https://github.com/Ephitah/Ephitah/blob/main/images%20(2).jpeg" width="500"> </p>
+<P align="right"> <img alt="laptop img" src="https://github.com/Ephitah/Ephitah/blob/main/images%20(2).jpeg" width="400"> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ephitah&label=Profile%20views&color=0e75b6&style=flat" alt="ephitah" /> </p>
 
