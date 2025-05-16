@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My Name is Daniel Olaleye</h1>
-<h3 align="center">An Aspiring Software Engineer</h3>
+<h3 align="center">I'm an aspiring FullStack web Developer</h3>
 
 <P align="center"> <img alt="laptop img" src="https://github.com/Ephitah/Ephitah/blob/main/images%20(2).jpeg" width="500" height="200"> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephitah" alt="ephitah" /></a> </p>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Redux-react**
 
 - 📫 How to reach me **danielolaleye080@gmail.com**
 
